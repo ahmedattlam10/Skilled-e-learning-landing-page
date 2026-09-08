@@ -33,13 +33,14 @@ img {
 
 html {
   overflow-x: hidden;
+  overflow-y: auto;
 }
 body {
   font-family: "Plus Jakarta Sans", sans-serif;
   font-size: 1.125rem;
-  min-height: 100vh;
   background: linear-gradient(to bottom, var(--white-clr), #f0f1ff);
   overflow-x: hidden;
+  overflow-y: auto;
 }
 
 .site-header,
