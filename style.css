@@ -222,4 +222,7 @@ body {
   .hero-title {
     font-size: 3.5rem;
   }
+  .courses-container-title {
+    font-size: 2rem;
+  }
 }
